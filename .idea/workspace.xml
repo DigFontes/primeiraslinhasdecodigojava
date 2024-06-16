@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a50767de-8fc9-4e59-8af3-7d2c64d70ac4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OutroLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adivinha.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Adivinha.executor": "Run",
     "Application.Condicional.executor": "Run",
     "Application.Hello.executor": "Run",
     "Application.Leitura.executor": "Debug",
@@ -53,7 +54,14 @@
       <recent name="C:\Users\Grupo Condor\JavaProjects\primeiroprojetojava\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OutroLoop">
+  <component name="RunManager" selected="Application.Adivinha">
+    <configuration name="Adivinha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Adivinha" />
+      <module name="primeiroprojetojava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Condicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Condicional" />
       <module name="primeiroprojetojava" />
@@ -75,13 +83,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="primeiroprojetojava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="OutroLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OutroLoop" />
       <module name="primeiroprojetojava" />
@@ -91,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Adivinha" />
         <item itemvalue="Application.OutroLoop" />
         <item itemvalue="Application.Loop" />
         <item itemvalue="Application.Leitura" />
         <item itemvalue="Application.Condicional" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
