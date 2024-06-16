@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a50767de-8fc9-4e59-8af3-7d2c64d70ac4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Condicional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leitura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OutroLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +40,7 @@
     "Application.Leitura.executor": "Debug",
     "Application.Loop.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.OutroLoop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -54,7 +53,7 @@
       <recent name="C:\Users\Grupo Condor\JavaProjects\primeiroprojetojava\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Loop">
+  <component name="RunManager" selected="Application.OutroLoop">
     <configuration name="Condicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Condicional" />
       <module name="primeiroprojetojava" />
@@ -83,8 +82,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OutroLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OutroLoop" />
+      <module name="primeiroprojetojava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OutroLoop" />
         <item itemvalue="Application.Loop" />
         <item itemvalue="Application.Leitura" />
         <item itemvalue="Application.Condicional" />

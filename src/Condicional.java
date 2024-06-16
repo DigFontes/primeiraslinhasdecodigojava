@@ -1,4 +1,5 @@
 public class Condicional {
+
     public static void main(String[] args) {
         int anoDeLancamento = 2022;
         boolean incluidoNoPlano = false;
@@ -17,4 +18,5 @@ public class Condicional {
             System.out.println("Deve pagar a locação");
         };
     }
+
 }
